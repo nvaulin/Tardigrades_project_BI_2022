@@ -1,0 +1,9 @@
+Query	Description	ScientificName	CommonName	MaxScore	TotalScore	QueryCover	EValue	Per.Ident	Acc.Len
+> 4: g11960-t1	E3 ubiquitin-protein ligase BRE1B; Short=BRE1-B;---	Rattus norve---	Norway rat	10116	334	334	96%	6e-98 26-96  1002	Q8CJB9-1         --
+> 6: g15484-t1	Vacuolar protein sorting-associated protein 51---	Danio rerio	zebrafish	7955	592	592	78%	0-0	45-03	827	Q155U0-1         --
+> 7: g16318-t1	Eukaryotic translation initiation factor 3 subun---	Xenopus laevis	African claw---	8355	57-4	590	40%	4e-08	36-11	1424	A2VD00-1         --
+> 8: g16368-t1	Eukaryotic translation initiation factor 3 subun---	Xenopus trop---	tropical cla---	8364	49-7	490	35%	1e-05	39-29	1391	A4II09-1         --
+> 9: g5927-t1	Glucosamine 6-phosphate N-acetyltransferase;---	Caenorhabdit---	NA	6239	87-4	87-4	14%	1e-18	38-64	165	Q17427-1         --
+> 10: g7861-t1	SWI/SNF-related matrix-associated actin-dependen---	Rattus norve---	Norway rat	10116	251	293	99%	2e-71	37-21	910	B4F769-1         --
+> 11: g8100-t1	Inositol monophosphatase 3; Short=IMP 3;---	Danio rerio	zebrafish	7955	173	173	22%	3e-46	36-04	341	Q2YDR3-1         --
+> 12: g8312-t1	Vacuolar protein sorting-associated protein 41---	Mus musculus	house mouse	10090	554	554	84%	0-0	40-84	853	Q5KU39-1         \n

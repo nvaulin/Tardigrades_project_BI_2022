@@ -1,0 +1,22 @@
+{
+  "version": "1.2",
+  "dbname": "tardigrades_db",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "../augustus.whole.aa",
+  "number-of-letters": 7015168,
+  "number-of-sequences": 16435,
+  "last-updated": "2022-12-15T23:12:00",
+  "number-of-volumes": 1,
+  "bytes-total": 8651553,
+  "bytes-to-cache": 7163196,
+  "files": [
+    "tardigrades_db.pdb",
+    "tardigrades_db.phr",
+    "tardigrades_db.pin",
+    "tardigrades_db.pot",
+    "tardigrades_db.psq",
+    "tardigrades_db.ptf",
+    "tardigrades_db.pto"
+  ]
+}
